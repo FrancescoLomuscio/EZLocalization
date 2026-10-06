@@ -1,0 +1,109 @@
+{
+    "entries": [
+        {
+            "id": "id_title",
+            "lines": [
+                {
+                    "language": 10,
+                    "text": "English"
+                },
+                {
+                    "language": 21,
+                    "text": "Italiano"
+                },
+                {
+                    "language": 14,
+                    "text": "Français"
+                },
+                {
+                    "language": 34,
+                    "text": "Español"
+                }
+            ]
+        },
+        {
+            "id": "id_play",
+            "lines": [
+                {
+                    "language": 10,
+                    "text": "Play"
+                },
+                {
+                    "language": 21,
+                    "text": "Riproduci"
+                },
+                {
+                    "language": 14,
+                    "text": "Lire"
+                },
+                {
+                    "language": 34,
+                    "text": "Reproducir"
+                }
+            ]
+        },
+        {
+            "id": "id_current",
+            "lines": [
+                {
+                    "language": 10,
+                    "text": "Current Language"
+                },
+                {
+                    "language": 21,
+                    "text": "Lingua Corrente"
+                },
+                {
+                    "language": 14,
+                    "text": "Langue Actuelle"
+                },
+                {
+                    "language": 34,
+                    "text": "Idioma Actual"
+                }
+            ]
+        },
+        {
+            "id": "id_change",
+            "lines": [
+                {
+                    "language": 10,
+                    "text": "Change"
+                },
+                {
+                    "language": 21,
+                    "text": "Cambia"
+                },
+                {
+                    "language": 14,
+                    "text": "Changer"
+                },
+                {
+                    "language": 34,
+                    "text": "Cambiar"
+                }
+            ]
+        },
+        {
+            "id": "id_click_hymn",
+            "lines": [
+                {
+                    "language": 10,
+                    "text": "Click the button to play the corresponding anthem"
+                },
+                {
+                    "language": 21,
+                    "text": "Clicca il bottone per riprodurre l’inno corrispondente"
+                },
+                {
+                    "language": 14,
+                    "text": "Cliquez sur le bouton pour écouter l’hymne correspondant"
+                },
+                {
+                    "language": 34,
+                    "text": "Haz clic en el botón para reproducir el himno correspondiente"
+                }
+            ]
+        }
+    ]
+}

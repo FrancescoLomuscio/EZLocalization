@@ -1,0 +1,25 @@
+{
+    "entries": [
+        {
+            "id": "id_hymn",
+            "clips": [
+                {
+                    "language": 10,
+                    "clip_path": "Localization/Audio/hymn_en"
+                },
+                {
+                    "language": 21,
+                    "clip_path": "Localization/Audio/hymn_it"
+                },
+                {
+                    "language": 14,
+                    "clip_path": "Localization/Audio/hymn_fr"
+                },
+                {
+                    "language": 34,
+                    "clip_path": "Localization/Audio/hymn_es"
+                }
+            ]
+        }
+    ]
+}
